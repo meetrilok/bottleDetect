@@ -3,5 +3,5 @@ Pillow
 gunicorn
 tensorflow
 WhiteNoise
-opencv
+opencv-python
 numpy
